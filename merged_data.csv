@@ -1,0 +1,26 @@
+CustomerID_x,CustomerName,Country,Age,City,OrderID,CustomerID_y,Product,Quantity,Price
+1,John Doe,USA,28,New York,101,1,Laptop,1,1200.0
+1,John Doe,USA,28,New York,102,2,Smartphone,2,800.0
+1,John Doe,USA,28,New York,103,4,Tablet,1,300.0
+1,John Doe,USA,28,New York,104,6,Monitor,3,400.0
+1,John Doe,USA,28,New York,105,8,Keyboard,5,50.0
+2,Jane Smith,Canada,34,Toronto,101,1,Laptop,1,1200.0
+2,Jane Smith,Canada,34,Toronto,102,2,Smartphone,2,800.0
+2,Jane Smith,Canada,34,Toronto,103,4,Tablet,1,300.0
+2,Jane Smith,Canada,34,Toronto,104,6,Monitor,3,400.0
+2,Jane Smith,Canada,34,Toronto,105,8,Keyboard,5,50.0
+3,Emily Davis,USA,29,Chicago,101,1,Laptop,1,1200.0
+3,Emily Davis,USA,29,Chicago,102,2,Smartphone,2,800.0
+3,Emily Davis,USA,29,Chicago,103,4,Tablet,1,300.0
+3,Emily Davis,USA,29,Chicago,104,6,Monitor,3,400.0
+3,Emily Davis,USA,29,Chicago,105,8,Keyboard,5,50.0
+4,Michael Brown,Canada,42,Vancouver,101,1,Laptop,1,1200.0
+4,Michael Brown,Canada,42,Vancouver,102,2,Smartphone,2,800.0
+4,Michael Brown,Canada,42,Vancouver,103,4,Tablet,1,300.0
+4,Michael Brown,Canada,42,Vancouver,104,6,Monitor,3,400.0
+4,Michael Brown,Canada,42,Vancouver,105,8,Keyboard,5,50.0
+5,Sarah Wilson,USA,25,Phoenix,101,1,Laptop,1,1200.0
+5,Sarah Wilson,USA,25,Phoenix,102,2,Smartphone,2,800.0
+5,Sarah Wilson,USA,25,Phoenix,103,4,Tablet,1,300.0
+5,Sarah Wilson,USA,25,Phoenix,104,6,Monitor,3,400.0
+5,Sarah Wilson,USA,25,Phoenix,105,8,Keyboard,5,50.0
