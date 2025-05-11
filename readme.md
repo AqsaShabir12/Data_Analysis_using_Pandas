@@ -1,4 +1,4 @@
-# 🐼 Pandas
+# 🐼 Data Analysis using Pandas
 
 This repository contains a collection of hands-on practice scripts for learning and mastering **Pandas**, one of the most powerful Python libraries for data manipulation and analysis.
 
